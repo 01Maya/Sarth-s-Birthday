@@ -28,7 +28,7 @@ const details = [
     icon: "🕐",
     title: "When",
     content: "Sunday, March 8th, 2026",
-    description: "7:00 PM onwards",
+    description: "6:30 PM onwards",
   },
   {
     icon: "📍",
