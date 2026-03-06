@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="space-y-2 text-center">
           {/* Main copyright with styled Maya */}
           <p className="text-sm md:text-base font-medium text-gray-700 tracking-wide">
-            <span>All rights reserved – Made by </span>
+            <span> © All rights reserved – Made by </span>
             <a
               href="https://myportfolio1it.vercel.app/"
               target="_blank"
