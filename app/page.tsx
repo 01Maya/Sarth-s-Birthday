@@ -7,6 +7,7 @@ import EventDetails from "@/components/sections/event-details"
 import Gallery from "@/components/sections/gallery"
 import Countdown from "@/components/sections/countdown"
 import Location from "@/components/sections/location"
+import Footer from "@/components/sections/footer"
 import Confetti, { ConfettiRef } from "@/components/animations/confetti"
 import FloatingElements from "@/components/animations/floating-elements"
 import Preloader from "@/components/animations/preloader"
@@ -62,6 +63,7 @@ export default function Home() {
         <Gallery />
         <Countdown />
         <Location />
+        <Footer />
       </main>
     </>
   )
