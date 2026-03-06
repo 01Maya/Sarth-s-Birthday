@@ -1,4 +1,4 @@
-### Birthday Invite
+## Birthday Invite
 
 ---
 
