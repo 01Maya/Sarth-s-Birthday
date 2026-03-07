@@ -2,6 +2,8 @@
 
 ## Birthday Invite 🎉
 
+Celebrate the Birthday by sending this amazing invitation!!! 🎉
+
 ---
 
 ## Preview 📸
