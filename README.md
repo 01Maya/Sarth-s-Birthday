@@ -2,7 +2,7 @@
 
 ## 🎉 Birthday Invite ⚡️
 
-Celebrate the Birthday by sending this amazing invitation!!! 🎉
+Celebrate the Birthday by sending this amazing invitation!!! 
 
 ---
 
@@ -20,7 +20,7 @@ https://sarth-birthday.vercel.app/
 ---
 
 
-### 🌻 Made by Maya! :)
+### 🌻 Made by Maya! :) ✨
 
 
 ---
