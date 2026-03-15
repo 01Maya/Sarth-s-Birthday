@@ -6,7 +6,7 @@ Celebrate the Birthday by sending this amazing invitation!!!
 
 ---
 
-## Sections 🗂️
+## 📎 Sections 🗂️
 
 ### 🏠 Hero Section  
 Soft pastel gradient background, animated “You’re Invited!” heading, and floating confetti.  
