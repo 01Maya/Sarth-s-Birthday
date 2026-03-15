@@ -26,7 +26,7 @@ Venue and contact cards designed in a light frosted glass style.
 
 ---
  
-## Preview 📸
+## ✨ Preview 📸
 
 
 https://sarth-birthday.vercel.app/
